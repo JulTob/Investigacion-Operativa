@@ -13,11 +13,11 @@
 % 1 1 1 1 1 1 1
 % 1 1 1 1 0 0 1
 
-%Cada estaci�n, max 3 Ptos de Control
+%Cada estacio'n, max 3 Ptos de Control
 % u1: pt1 + pt3 + pt4 + pt6 + pt7 <= 3 u1
-% p_ut= p(u,pt) el punto pt est� cubierto por u
+% p_ut= p(u,pt) el punto pt está cubierto por u
 % mx: limite de ux
-%sx = servicio de ux
+% sx = servicio de ux
 
 M=10;
 %    u1  u2   u3   u4   u5          p1  p2  p3  p4  p5   p6 p7    
